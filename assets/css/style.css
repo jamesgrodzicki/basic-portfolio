@@ -1,5 +1,33 @@
-h1 {
+*{
+    color: #777777;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.heading{
+
+
+}
+
+h1{
     padding: 20px;
     color: #ffffff;
     background-color: #4aaaa5;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h3{
+
+}
+
+#background{
+
+}
+
+.container{
+    width: 960px;
+}
+
+h2{
+    color: #4aaaa5;
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
